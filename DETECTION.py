@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import pygame
-import cv2 as cv
+import cv2 as cv  #OpenCv library
 import time
 import smtplib
 from matplotlib import pyplot as plt
